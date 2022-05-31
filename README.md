@@ -5,7 +5,7 @@ Open source intelligence browser Google Chrome extension
 
 This extension will open highlighted IPv4s, domains, or file hashes in a new tab group in Google Chrome. It is highly recommended to configure a keyboard shortcut to launch this extension, in order to maximize efficiency.
 
-The extension will remove whitespaces and IOC sanitizing brackets (`xxxxx[.]com` --> `xxxxx.com`) automatically, any highlighted field that still does not pattern match IPv4, domain, or file hashes (SHA1, MD5, SHA256) will throw an error.
+The extension will remove whitespaces, tabs, and IOC sanitizing brackets ("xxxxx[.]com" --> "xxxxx.com") automatically, any highlighted field that still does not pattern match IPv4, domain, or file hashes (SHA1, MD5, SHA256) will throw an error.
 
 To load unpacked plugin:
 - Download "ChromeExt" folder and save to your computer in a directory location of your choice
