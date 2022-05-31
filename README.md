@@ -3,7 +3,7 @@
 </p>
 Open source intelligence browser Google Chrome extension
 </p>
-*BETA VERSION, NOT YET SUBMITTED TO CHROME STORE*
+*UNPACKED BETA VERSION, NOT YET SUBMITTED TO CHROME STORE*
 </p>
 This extension will open highlighted IPv4s, domains, or file hashes in a new tab group in Google Chrome. It is highly recommended to configure a keyboard shortcut to launch this extension, in order to maximize efficiency.
 
