@@ -1,5 +1,6 @@
-![alt text](https://github.com/zacharycoddens/huntir/blob/main/huntir.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/zacharycoddens/huntir/blob/main/huntir.png" width="200"></center>
+</p>
 Open source intelligence browser Google Chrome extension
 
 This extension will open highlighted IPv4s, domains, or file hashes in a new tab group in Google Chrome. It is highly recommended to configure a keyboard shortcut to launch this extension, in order to maximize efficiency.
