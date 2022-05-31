@@ -15,7 +15,7 @@ chrome.browserAction.onClicked.addListener(function() {
 		highlightedClean = highlighted.replace(/[\"\'\[\]\t\s ]/g, '');
 
 		var regIpv4 = new RegExp("^(?:(25[0-5]|(?:2[0-4]|1[0-9]|[1-9]|)[0-9])(\.(?!$)|$)){4}$")
-		const arrayIpv4 = ['https://www.shodan.io/host/','https://www.virustotal.com/gui/ip-address/','https://exchange.xforce.ibmcloud.com/ip/','https://otx.alienvault.com/indicator/ip/','https://talosintelligence.com/reputation_center/lookup?search=']
+		const arrayIpv4 = ['https://www.shodan.io/host/','https://www.virustotal.com/gui/ip-address/','https://exchange.xforce.ibmcloud.com/ip/','https://otx.alienvault.com/indicator/ip/','https://viz.greynoise.io/ip/']
 		
 		var regMd5 = new RegExp("^[0-9a-fA-F]{32}$")
 		var regSha1 = new RegExp("^[0-9a-fA-F]{40}$")
