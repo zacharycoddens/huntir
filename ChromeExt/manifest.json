@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "huntIR",
+  "version": "1.0.1",
+  "description": "Chrome plugin for quick query across multiple OSINT sources for highlighted IP, domain/subdomain, or file hash, and results dump into new Chrome tab group.",
+  "browser_action": {
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["content.js"],
+    "persistent": false
+  }
+
+}
+
