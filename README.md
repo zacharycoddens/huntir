@@ -8,7 +8,7 @@ This extension will open highlighted IPv4s, domains, or file hashes in a new tab
 The extension will remove whitespaces and IOC sanitizing brackets (`xxxxx[.]com` --> `xxxxx.com`) automatically, any highlighted field that still does not pattern match IPv4, domain, or file hashes (SHA1, MD5, SHA256) will throw an error.
 
 To load plugin:
-- Make sure all files are saved to a folder in a location of your choice
+- Download "ChromeExt" folder and save to your computer in a directory location of your choice
 - Open Google Chrome and navigate to `chrome://extensions`
 - Toggle on "Developer Mode" in top right
 - Select "Load Unpacked" and select the directory location where the files are saved
